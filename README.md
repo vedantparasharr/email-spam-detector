@@ -3,6 +3,8 @@
 An interactive **AI-powered email classification system** that detects whether an email is **Spam** or **Legitimate** using machine learning models.  
 Built using **Python**, **NLTK**, and **Scikit-learn**, with an elegant **Voilá + ipywidgets UI** for live interaction.
 
+Built as a learning python project
+
 ---
 
 ## 🚀 Features
