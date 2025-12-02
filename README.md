@@ -7,7 +7,7 @@ Built as a learning python project
 
 ---
 
-## 🚀 Features
+## 🚀 Features Included 
 
 - 📂 **Automatic Data Loading & Cleaning**
   - Loads `spam_ham_dataset.csv`  
@@ -43,7 +43,7 @@ Built as a learning python project
 
 ---
 
-## 📘 Dataset
+## 📘 Dataset 
 
 The system uses the **`spam_ham_dataset.csv`** file, which must contain at least:
 - `text` — The email content  
