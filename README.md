@@ -7,7 +7,7 @@ Built as a learning python project
  
 ---
 
-## 🚀 Features Included 
+## 🚀 Features Included  
 
 - 📂 **Automatic Data Loading & Cleaning**
   - Loads `spam_ham_dataset.csv`  
