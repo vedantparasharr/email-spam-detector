@@ -27,7 +27,7 @@ Built as a learning python project
   - Modern, styled dashboard built with **ipywidgets** and **HTML**  
   - Includes header, performance cards, interactive widgets, and footer  
   - Works seamlessly in **Jupyter Notebook** or **Voilá app**
-
+ 
 ---
 
 ## 🧩 Technologies Used
