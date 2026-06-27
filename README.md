@@ -17,7 +17,7 @@ Built as a learning python project
   - Trains and compares **Naive Bayes** and **SVM** models  
   - Displays performance results and accuracy visualization  
   - Automatically selects the best-performing model
-
+   
 - 💬 **Interactive Email Analysis**
   - Enter or paste your own email text  
   - Choose from preloaded **sample emails** (legit, promotional, or suspicious)  
